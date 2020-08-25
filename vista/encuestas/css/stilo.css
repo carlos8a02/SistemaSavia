@@ -1,0 +1,161 @@
+.imagen-cabezera{
+  width: 100%;
+  padding-top:0;
+ }
+ .imagen-pie{
+  display: flex;
+  align-content: center;
+  position: absolute;
+  bottom: 0;
+
+}
+.imagen-pie{
+  width:80%;
+}
+body{
+  background-color: #E4E4C9;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 100vh;
+  font-size: 17px;
+}
+/*contenedor de la cabecera y footer*/
+.contenedor1{
+border-radius: 5px 5px 5px 5px;
+width: 100%;
+height: 100%;
+margin:0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+background-color: #255b99;
+}
+
+
+
+.contenedor4{
+  background-color: #fff;
+  border-radius: 5px 5px 5px 5px;
+  width: 100%;
+  height: 100%;
+  margin:5px;
+  padding:0px;
+}
+
+
+.contenedor4-2{
+  background-color: #e3f2fd;
+  border-radius: 5px 5px 5px 5px;
+  margin:10px;
+  padding:10px;
+  max-width:100%;
+  max-height:100%;
+}
+
+.form1{
+  background-color: #e3f2fd;
+  border-radius: 5px 5px 5px 5px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.img{
+  max-width: 99%;
+  border-radius: 5px 5px 5px 5px;
+
+
+}
+.img1{
+  max-width: 99%;
+  border-radius: 5px 5px 5px 5px;
+
+}
+.button{
+  max-width:80px;
+  max-height:40px;
+  text-align:center;
+  font-weight:normal;
+  color: #fff;
+  font-family: 'playfair',display, cursive;
+  font-size: 9pt;
+  margin: 0px 0px;
+  padding: 0px 0px;
+}
+n
+
+}
+.contenedor6{
+
+  background-color: #000;
+  border-radius: 2px 2px 2px 2px;
+  width: 100%;
+  height: 1%;
+  margin:0px;
+  padding:0px;
+}
+
+
+
+.registro_user{
+background-color: #e3f2fd;
+width:100%;
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+
+
+}
+#login{
+background-color: rgba(171, 184, 142, 0.70);
+width: 100%;
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+border-radius: 5px 5px 5px 5px;
+border-color: #000;
+}
+
+.table_1{
+background-color: rgba(29, 140, 231, 0.30);
+width: 100%;
+padding: 1px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+border-radius: 5px 5px 5px 5px;
+border-top-left-radius: 5px 5px;
+
+}
+
+
+hr {
+  height: 2px;
+  width: 100%;
+padding: 0px 5px 0px 0px;
+margin: 0px 0px 0px 0px;
+border-radius: 5px 5px 5px 5px;
+background-color: black;
+}
+.contenedor_login{
+  background-color: rgba(29, 140, 231, 0.30);
+  width: 100%;
+ margin: 5px 0px;
+  padding: 1px 0px;
+border-radius: 5px 5px 5px 5px;
+
+}
+
+.formularios{
+
+width: 100%;
+padding: 1px 0px 0px 0px;
+margin: 0px 0px 0px 0px;
+}
+
+.texto{
+text-align: center;
+font-size: 12pt;
+}
+.container{
+padding: 0px;
+margin: 0px;
+width: 100%;
+}
+.row{
+  margin: auto;
+
+
+}

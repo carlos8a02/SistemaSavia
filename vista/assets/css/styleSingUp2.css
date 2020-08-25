@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    font-size: 22px;
+    
+}  
+i{
+    color: white;
+    
+}
+body{
+    background-color: rgb(228, 228, 201);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.imagen-cabezera{
+    width: 100%;
+}
+/*font*/
+input, textarea { 
+	font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
+.input_nombre{   
+    margin-bottom: 10px;
+}
+/*/font*/
+
+.borde{
+    border-color: black;
+}
+h2{
+  text-align: center;
+  color: white;
+}
+.formulario-registro .avatar
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+    left: calc(50% - 50px);
+}
+
+::-webkit-input-placeholder{
+    font-size: 18px;
+    color: #000;
+}
+.formulario-registro input[type="text"], .formulario-registro input[type="number"],.formulario-registro input[type="password"],select{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background:transparent;
+    outline: nove;
+    height: 40px;
+    font-size: 15px;
+}
+.contenedor-form{
+    background-color: #255b99;
+    border-radius: 9%;
+    width: 100%;
+    max-width: 500px;
+    margin: 40px auto;
+    color: #fff;
+    line-height: 40px;
+    text-align: center;
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.formulario-registro input[type="submit"], .formulario-registro input[type="reset"] {
+    margin-top: 25px;
+    border-radius:9%;
+    background-color: rgba(98, 123, 235, 0.952);
+    border-color: rgba(98, 123, 235, 0.952);
+    cursor: pointer;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
+.imagen-pie{
+    width: 80%;  
+    display: flex;
+    align-content: center;
+    position: absolute;
+    bottom: -100%;
+}

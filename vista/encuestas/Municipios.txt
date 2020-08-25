@@ -1,0 +1,101 @@
+Lista de parroquias del estado Anzoátegui
+Municipio Anaco
+Parroquia Anaco
+Parroquia San Joaquín
+Parroquia Buena Vista
+
+Municipio Aragua
+Parroquia Cachipo
+Parroquia Aragua de Barcelona
+
+Municipio Diego Bautista Urbaneja
+Parroquia Lechería
+Parroquia El Morro
+
+Municipio Fernando Peñalver
+Parroquia Puerto Píritu
+Parroquia San Miguel
+Parroquia Sucre
+
+Municipio Francisco del Carmen Carvajal
+Parroquia Valle de Guanape
+Parroquia Santa Bárbara
+
+Municipio Francisco de Miranda
+Parroquia Atapirire
+Parroquia Boca del Pao
+Parroquia El Pao
+Parroquia Pariaguán
+
+Municipio Guanipa
+Parroquia San José de Guanipa
+
+Municipio Guanta
+Parroquia Guanta
+Parroquia Chorrerón
+
+Municipio Independencia
+Parroquia Mamo
+Parroquia Soledad
+
+Municipio José Gregorio Monagas
+Parroquia Mapire
+Parroquia Piar
+Parroquia Santa Clara
+Parroquia San Diego de Cabrutica
+Parroquia Uverito
+Parroquia Zuata
+
+Municipio Juan Antonio Sotillo
+Parroquia Puerto La Cruz
+Parroquia Pozuelos
+
+Municipio Juan Manuel Cajigal
+Parroquia Onoto
+Parroquia San Pablo
+
+Municipio Libertad
+Parroquia San Mateo
+Parroquia El Carito
+Parroquia Santa Inés
+Parroquia La Romereña
+
+Municipio Manuel Ezequiel Bruzual
+Parroquia Clarines
+Parroquia Guanape
+Parroquia Sabana de Uchire
+
+Municipio Pedro María Freites
+Parroquia Cantaura
+Parroquia Libertador
+Parroquia Santa Rosa
+Parroquia Urica
+
+Municipio Píritu
+Parroquia Píritu
+Parroquia San Francisco
+
+Municipio San Juan de Capistrano
+Parroquia Boca de Uchire
+Parroquia Boca de Chávez
+
+Municipio Santa Ana
+Parroquia Pueblo Nuevo
+Parroquia Santa Ana
+
+Municipio Simón Bolívar
+Parroquia Bergantín
+Parroquia Caigua
+Parroquia El Carmen.
+Parroquia El Pilar
+Parroquia Naricual.
+Parroquia San Cristóbal
+
+Municipio Simón Rodríguez
+Parroquia Edmundo Barrios
+Parroquia Miguel Otero Silva
+
+Municipio General Sir Arthur McGregor
+Parroquia El Chaparro
+Parroquia Tomás Alfaro
+Parroquia Calatrava

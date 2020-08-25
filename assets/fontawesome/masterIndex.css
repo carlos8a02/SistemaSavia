@@ -1,0 +1,187 @@
+/*Mobile first*/
+body
+{
+    
+    background-image: url(../img/background.jpg);
+    font-family: sans-serif;
+    height: 100vh;
+    margin-right:10% ;
+    margin-left:10% ;
+}
+header{
+    bottom: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.imagen-pie{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left:10%;
+    top: 100vh;
+}
+.imagen-pie{
+    width:80%;
+}
+.imagen-cabezera{
+ width: 100%;
+}
+h1{
+    text-transform: uppercase;
+}
+
+.login-box
+{
+    width: 240px;
+    height: 320px;
+    background-color: #255b99;
+    /* background: rgba(70, 33, 100, 0.658) ; */
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    box-sizing: border-box;
+    padding: 50px 15px;
+    border-radius: 10%;
+    margin-bottom: 100px;
+}
+
+.login-box .avatar
+{
+    width: 75px;
+    height: 75px;
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    border-radius: 50%;
+    position: absolute;
+    top: -45px;
+    left: calc(60% - 60px);
+}
+.login-box h1
+{
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.login-box a{
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 5px;
+    color: rgb(255, 255, 255);
+}
+.login-box a:hover
+{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+@media screen and (min-width:480px){
+    body{
+    background-image: url(../img/background.jpg);
+    font-family: sans-serif;
+    height: 100vh;
+    margin-right:20% ;
+    margin-left:20% ;
+    }
+    .login-box{
+    width: 320px;
+    height: 420px;
+    background-color: #255b99;
+    /* background: rgba(70, 33, 100, 0.658) ; */
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    color: #fff;
+    top: 80%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 10%;
+    margin-bottom: 100px;
+    }
+    .login-box .avatar{
+    width: 100px;
+    height: 100px; 
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px); 
+    }
+    .login-box h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    }
+    .login-box a{
+        text-decoration: none;
+        font-size: 20px;
+        line-height: 5px;
+        color: rgb(255, 255, 255);
+        
+    }
+    .login-box a:hover{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    }
+}
+
+@media screen and (min-width:481px){
+    body{
+    background-image: url(../img/background.jpg);
+    font-family: sans-serif;
+    height: 100vh;
+    margin-right:20% ;
+    margin-left:20% ;
+    }
+    .login-box{
+    width: 320px;
+    height: 420px;
+    background-color: #255b99;
+    /* background: rgba(70, 33, 100, 0.658) ; */
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    color: #fff;
+    top: 60%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 10%;
+    margin-bottom: 100px;
+    }
+    .login-box .avatar{
+    width: 100px;
+    height: 100px; 
+    box-shadow:0 6px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);/* diferencia horizonatal,vertical,el desenfoque, apmitud y color de sombra*/
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px); 
+    }
+    .login-box h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    }
+    .login-box a{
+        text-decoration: none;
+        font-size: 20px;
+        line-height: 5px;
+        color: rgb(255, 255, 255);
+    }
+    .login-box a:hover{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    }
+}
